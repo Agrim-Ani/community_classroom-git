@@ -1,0 +1,5 @@
+hello
+yello
+happy sad
+exit
+i
